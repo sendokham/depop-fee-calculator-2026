@@ -18,28 +18,26 @@ Access the full multi-marketplace terminal with fee tier breakdowns, boosted ite
 
 ## 📊 2026 Depop US Selling Fee Structure
 
-As of 2026, sales on Depop US operate under the following fee model:
+As of 2026, sales on Depop US operate under the following verified fee schedule:
 
-* **Marketplace Selling Fee**: **0%** for US sellers (Depop shifted selling fees away from sellers to buyer marketplace structures).
-* **Payment Processing Fee**: **2.9% + $0.30** on total transaction volume (including item price and buyer-paid shipping).
-* **Boosted Listing Fee (Optional)**: **8% to 12%** applied only if an item sells via an algorithm-boosted search card.
+* **Marketplace Selling Fee**: **0%** standard commission for US sellers (effective on qualifying listings).
+* **Depop Payments Processing Fee**: **3.3% + $0.45** on gross transaction volume (item price + buyer-paid shipping).
+* **Boosted Listing Fee (Optional)**: **12%** applied only when an item sells via a qualifying boosted listing click (March 2026 rate).
 
 ---
 
 ## 📈 Net Payout Reference Matrix ($15 to $250 Items)
 
-| Item Price | Standard Processing (2.9% + $0.30) | Boosted Listing (8%) | Net Seller Payout (Standard) | Net Seller Payout (Boosted) |
-| :---: | :---: | :---: | :---: | :---: |
-| **$15.00** | $0.74 | $1.20 | **$14.26** | **$13.06** |
-| **$30.00** | $1.17 | $2.40 | **$28.83** | **$26.43** |
-| **$50.00** | $1.75 | $4.00 | **$48.25** | **$44.25** |
-| **$75.00** | $2.48 | $6.00 | **$72.52** | **$66.52** |
-| **$100.00** | $3.20 | $8.00 | **$96.80** | **$88.80** |
-| **$150.00** | $4.65 | $12.00 | **$145.35** | **$133.35** |
-| **$200.00** | $6.10 | $16.00 | **$193.90** | **$177.90** |
-| **$250.00** | $7.55 | $20.00 | **$242.45** | **$222.45** |
+| Item Price | Processing (3.3% + $0.45) | Boosted Fee (12%) | Net Seller Payout (Standard) | Net Seller Payout (Boosted) | Deep Link |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **$15.00** | $0.95 | $1.80 | **$14.05** | **$12.25** | [$15 Breakdown](https://usfeecalc.live/depop-fee-calculator/15/) |
+| **$50.00** | $2.10 | $6.00 | **$47.90** | **$41.90** | [$50 Breakdown](https://usfeecalc.live/depop-fee-calculator/50/) |
+| **$100.00** | $3.75 | $12.00 | **$96.25** | **$84.25** | [$100 Breakdown](https://usfeecalc.live/depop-fee-calculator/100/) |
+| **$150.00** | $5.40 | $18.00 | **$144.60** | **$126.60** | [$150 Breakdown](https://usfeecalc.live/depop-fee-calculator/150/) |
+| **$200.00** | $7.05 | $24.00 | **$192.95** | **$168.95** | [$200 Breakdown](https://usfeecalc.live/depop-fee-calculator/200/) |
+| **$250.00** | $8.70 | $30.00 | **$241.30** | **$211.30** | [$250 Breakdown](https://usfeecalc.live/depop-fee-calculator/250/) |
 
-*(For custom shipping, packaging expenses, and inventory purchase cost analysis, run the live calculation engine at [https://usfeecalc.live/depop-fee-calculator/](https://usfeecalc.live/depop-fee-calculator/)).*
+*(Compare all 16 US marketplaces — [eBay](https://usfeecalc.live/ebay-fee-calculator/), [Poshmark](https://usfeecalc.live/poshmark-fee-calculator/), [Whatnot](https://usfeecalc.live/whatnot-fee-calculator/), [Mercari](https://usfeecalc.live/mercari-fee-calculator/), and [Etsy](https://usfeecalc.live/etsy-fee-calculator/) — at [https://usfeecalc.live/](https://usfeecalc.live/)).*
 
 ---
 
