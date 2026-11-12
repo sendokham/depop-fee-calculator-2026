@@ -54,10 +54,10 @@ The production engine at [USFeeCalc.live](https://usfeecalc.live) supports real-
 ## ❓ Frequently Asked Questions
 
 ### Does Depop take 10% in 2026?
-No. For US-based sellers, Depop eliminated the 10% seller fee on listings created after the policy update. Sellers pay strictly the standard payment processing fee of 2.9% + $0.30 unless they opt into paid Boosted Listings (8% - 12%).
+No. For US-based sellers, Depop eliminated the 10% seller selling fee. Sellers pay strictly the Depop Payments processing fee of **3.3% + $0.45** on the gross buyer total unless they opt into qualifying Boosted Listings (**12%**).
 
 ### How much do you lose on a $50 sale on Depop?
-On a standard $50 sale without boosted promotion, you lose **$1.75** to payment processing, leaving you with **$48.25 net payout**. If you boosted the listing at 8%, you deduct an additional $4.00, resulting in a **$44.25 net payout**.
+On a standard $50 sale without boosted promotion, Depop Payments processing deducts **$2.10** (3.3% + $0.45), leaving you with a **$47.90 net payout**. If the item sells via a 12% Boosted listing, an additional $6.00 applies, resulting in a **$41.90 net payout**.
 
 ### Can I calculate profit after original inventory purchase cost?
 Yes. The full interactive terminal on [https://usfeecalc.live/depop-fee-calculator/](https://usfeecalc.live/depop-fee-calculator/) includes original cost of goods sold (COGS) and custom shipping supplies inputs to calculate your exact ROI percentage and net dollar profit.
